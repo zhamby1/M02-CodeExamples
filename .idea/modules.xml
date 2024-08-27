@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Classes-Intro/Class-Constructors/Class-Constructors.iml" filepath="$PROJECT_DIR$/Classes-Intro/Class-Constructors/Class-Constructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes-Intro/Classes-Intro.iml" filepath="$PROJECT_DIR$/Classes-Intro/Classes-Intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/For-Each/For-Each.iml" filepath="$PROJECT_DIR$/For-Each/For-Each.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intro to Arrays/Intro to Arrays.iml" filepath="$PROJECT_DIR$/Intro to Arrays/Intro to Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Looping-Through-Arrays/Looping-Through-Arrays.iml" filepath="$PROJECT_DIR$/Looping-Through-Arrays/Looping-Through-Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M02-CodeExamples.iml" filepath="$PROJECT_DIR$/M02-CodeExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Two-Dimensional-Arrays/Two-Dimensional-Arrays.iml" filepath="$PROJECT_DIR$/Two-Dimensional-Arrays/Two-Dimensional-Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Using-Arrays-In-Functions/Using-Arrays-In-Functions.iml" filepath="$PROJECT_DIR$/Using-Arrays-In-Functions/Using-Arrays-In-Functions.iml" />
+    </modules>
+  </component>
+</project>
