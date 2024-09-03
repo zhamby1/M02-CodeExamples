@@ -12,6 +12,8 @@ public class Main {
         Person me = new Person(name,age,startingBalance);
         System.out.print(me.name + " " + me.age + " " + me.checkingAcctBalance);
 
+        //person
+
 
     }
 }
